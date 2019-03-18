@@ -1,0 +1,11 @@
+.nav-background {
+    background-color: rgb(22, 22, 51);
+    -webkit-box-shadow: 2px 2px 3px 3px rgba(97, 100, 141, 0.4);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    2px 2px 3px 3px rgb(97, 100, 141, 0.4);  /* Firefox 3.5 - 3.6 */
+  box-shadow:         2px 2px 3px 3px rgb(97, 100, 141, 0.4);  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  
+}
+
+.menu-position {
+   padding-left: 80%;
+}
