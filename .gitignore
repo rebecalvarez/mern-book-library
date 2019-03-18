@@ -2,3 +2,4 @@ node_modules
 .DS_Store
 .env
 config_keys.js
+mongo_config.js
